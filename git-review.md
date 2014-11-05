@@ -43,7 +43,7 @@
   * <git remote add origin>
 
 * Change an existing remote
-  * < your answer here >
+  * <git remote set-url>
 
 * Pull changes from a shared github repo to your local repo
   * < your answer here >
