@@ -34,7 +34,7 @@
   * <git commit -m “<insert message>”>
 
 * Commit using the -m flag with a multi-line description
-  * < your answer here >
+  * <git commit -m "Line 1" -m "Line 2">
 
 * Push your local repository to github (assume your remote is already set)
   * < your answer here >
