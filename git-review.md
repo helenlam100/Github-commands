@@ -25,10 +25,10 @@
   * <git status>
 
 * Identify if files are staged or not
-  * <git add>
+  * <git status>
 
 * Add a file to the staging area
-  * < your answer here >
+  * <git add>
 
 * Commit the contents of the staging area using the -m flag
   * < your answer here >
