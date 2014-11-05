@@ -31,7 +31,7 @@
   * <git add>
 
 * Commit the contents of the staging area using the -m flag
-  * < your answer here >
+  * <git commit -m “<insert message>”>
 
 * Commit using the -m flag with a multi-line description
   * < your answer here >
