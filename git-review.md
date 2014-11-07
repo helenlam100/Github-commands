@@ -49,13 +49,13 @@
   * <git pull origin  master>
 
 * Show the history of a git repository
-  * < your answer here >
+  * <git log>
 
 * Show a log of your commit history
-  * < your answer here >
+  * <git log>
 
 * Roll back to a specific commit in history
-  * < your answer here >
+  * git reset --hard <insert SHA>
 
 #### You should understand the following:
 
