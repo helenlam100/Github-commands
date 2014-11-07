@@ -16,43 +16,43 @@
 #### Get started!
 
 * Display your working directory
-  * <pwd>
+  * pwd
 
 * Initialize a git repository in a newly created local directory
-  * <git init>
+  * git init
 
 * Display the status of a repository
-  * <git status>
+  * git status
 
 * Identify if files are staged or not
-  * <git status>
+  * git status
 
 * Add a file to the staging area
-  * <git add>
+  * git add
 
 * Commit the contents of the staging area using the -m flag
-  * <git commit -m “<insert message>”>
+  * git commit -m “<insert message>”
 
 * Commit using the -m flag with a multi-line description
-  * <git commit -m "Line 1" -m "Line 2">
+  * git commit -m "Line 1" -m "Line 2"
 
 * Push your local repository to github (assume your remote is already set)
-  * <git push origin master>
+  * git push origin master
 
 * Add a remote to your repository
-  * <git remote add origin>
+  * git remote add origin
 
 * Change an existing remote
-  * <git remote set-url>
+  * git remote set-url
 
 * Pull changes from a shared github repo to your local repo
-  * <git pull origin  master>
+  * git pull origin  master
 
 * Show the history of a git repository
-  * <git log>
+  * git log
 
 * Show a log of your commit history
-  * <git log>
+  * git log
 
 * Roll back to a specific commit in history
   * git reset --hard <insert SHA>
